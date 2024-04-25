@@ -25,8 +25,8 @@ import javax.activation.DataSource;
  */
 public class Email {
 
-    static final String from = "buianhtu293@gmail.com";
-    static final String password = "nuucsqxswbwhzcjv";
+    static final String from = "tramphong2k2@gmail.com";
+    static final String password = "bxxorewdzntwmkoe";
 
     public static String getRandomNumber() {
         Random rd = new Random();
